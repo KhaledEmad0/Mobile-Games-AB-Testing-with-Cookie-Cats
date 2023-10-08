@@ -13,7 +13,6 @@ In this project, we will analyze the result of an A/B test where the first gate 
 
 # 🎯 Conclusion & Results
 - Retention Impact:
-  - Strong evidence from bootstrap results: 7-day retention higher at level 30 than level 40.
-  - 
+  - Strong evidence from bootstrap results: 7-day retention higher at level 30 than level 40. 
 - Strategic Recommendation:
   - To maintain high 1-day and 7-day retention, avoid moving the gate from level 30 to level 40
